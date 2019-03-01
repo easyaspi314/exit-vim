@@ -1,1 +1,1 @@
-silent! q!
+silent! qa!
